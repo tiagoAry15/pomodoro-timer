@@ -2,7 +2,7 @@
 
 Este é um programa simples de timer Pomodoro implementado em Python usando a biblioteca `tkinter`. O timer Pomodoro é uma técnica de gerenciamento de tempo que alterna períodos de trabalho intenso com pausas curtas e regulares. O objetivo é melhorar a produtividade e a concentração durante as sessões de trabalho.
 
-![Pomodoro Timer Screenshot](pomodoro_timer_screenshot.png)
+![Pomodoro Timer Screenshot](pomodoro-timer/pomodoro_screenshot.png)
 
 ## Funcionalidades
 
